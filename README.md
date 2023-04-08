@@ -1,6 +1,6 @@
 # timetable 
 
-<!DOCTYPE html>
+
 <html>
    <main>
    <body>
